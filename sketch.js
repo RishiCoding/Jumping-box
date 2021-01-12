@@ -1,3 +1,8 @@
+var box;
+var surface1, surface2, surface3, surface4;
+var canvas;
+var music;
+
 function preload(){
     music = loadSound("music.mp3");
 }
